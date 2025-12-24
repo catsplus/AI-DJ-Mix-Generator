@@ -79,12 +79,3 @@ Ready to dive in? Here's how you can kick start your journey with the AI DJ Mix 
 
 The project is available under the MIT license. You can find the license details in the [MITLicense.txt](MITLicense.txt) file in the project repository.
 
-## Contact
-
-Feel free to get in touch at ruszkowskifranciszek@gmail.com.
-
-## Demo Links
-
-1. [Perpetual Groove EP by Alec Dienaar](https://soundcloud.com/franas_oven/demo1/s-IsV4HEA5Yz9?si=cba3a18e72ea4370af040972a7518700&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
-
-2. [Impulsive Behaviour Unreleased Tracks](https://soundcloud.com/franas_oven/demo2/s-1TFiSgjzuqh?si=7edcb49667814dc898a7243b49bf7cd7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
